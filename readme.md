@@ -1,4 +1,4 @@
-# <img src="https://butt.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> Project 0 - Racing Game
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> Project 0 - Racing Game
 
 **Read this entire document before writing a line of code.**
 
