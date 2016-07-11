@@ -1,0 +1,56 @@
+
+/*Add attributes for the following sections*/
+#back {
+  background-color: #e6f2ff;
+}
+
+#field {
+  background-image: url("http://wallpapercave.com/wp/IynYE05.png");
+}
+h1 {
+    margin-top: 8px;
+    text-align: center;
+    font-size: 40px;
+    font-style: oblique;
+    font: helvetica;
+    font-weight: bold;
+    color: #ff33cc;
+
+}
+h3 {
+    color: #ff33cc;
+  }
+#brunette,
+#blonde {
+    width:100px;
+    height:70px;
+    position: absolute;
+}
+#brunette {
+    left: 0px;
+    top: 130px;
+}
+#blonde {
+    left: 0px;
+    top: 210px;
+}
+#reset {
+    text-align: center;
+    font-weight: bold;
+    float: left;
+    color: #ff33cc;
+}
+#track {
+    font-size: 20px;
+    font-style: bold;
+    font: arial;
+    position: relative;
+    font-weight: bolder;
+    color: #ff33cc;
+}
+#field {
+
+    height: 500px;
+    border: 3px solid #ff33cc;
+    position: relative;
+}
