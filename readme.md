@@ -25,5 +25,5 @@ Full name of the Game - Cupcake Race (Brunette vs. Blonde). There are 2 users - 
 -Win counter that updates after each player's winner
 -Sound effects
 -Handlebars template
--'Bot'-controlled player
+
 ---
