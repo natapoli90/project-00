@@ -22,24 +22,21 @@
   <!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script> -->
 
 </head>
-
 <body>
-
   <header>
 <div id="back">
     <div class="header text-center">
       <h1>Cupcake Race</h1>
       <h3>Brunette vs. Blonde</h3>
     </div>
-
     <div class="container-fluid">
       <div class="row">
         <div id="track" class="col-xs-5">
           <div class="player" data-key="Q">Tap Q key for Brunette</div>
           <div class="player" data-key="P">Tap P key for Blonde</div>
-<h3 id="board"></h3>
+          <p id="time">The race will start in <span id="count">3</span> seconds...</p>
+          <h3 id="board"></h3>
         </div>
-
         <div class="col-xs-2">
           <button class="btn btn-lg btn-reset tmp-hidden" id="reset">Reset</button>
 
@@ -49,12 +46,9 @@
     </div>
   </header>
   <div id="field">
-
-    <img id="brunette"  src = "images/girls (2).jpg" data-win="Congratulations!! Brunette wins!!">
-
-    <img id="blonde" src = "images/girls copy (2).jpg" data-win="Congratulations!! Blonde wins!!">
+    <img id="brunette"  src = "images/girls (2).jpg" data-win="Congratulations!! Brunette won!!">
+    <img id="blonde" src = "images/girls copy (2).jpg" data-win="Congratulations!! Blonde won!!">
   </div>
-
 </div>
 </body>
 </html>
